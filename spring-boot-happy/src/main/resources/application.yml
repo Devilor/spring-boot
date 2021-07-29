@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: simple
+  banner:
+    image:
+      location: classpath:banner.txt
